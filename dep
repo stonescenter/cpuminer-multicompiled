@@ -1,1 +1,1 @@
-autotools-dev gcc libcurl3 automake libssl-dev libjansson-dev libcurl4-openssl-dev automake
+make autotools-dev gcc libcurl3 automake libssl-dev libjansson-dev libcurl4-openssl-dev automake
